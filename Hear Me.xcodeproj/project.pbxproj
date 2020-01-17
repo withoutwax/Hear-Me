@@ -11,6 +11,7 @@
 		8642EF3623D165CE00FE31A7 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8642EF3523D165CE00FE31A7 /* ViewController.swift */; };
 		8642EF3823D165D100FE31A7 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8642EF3723D165D100FE31A7 /* Assets.xcassets */; };
 		8642EF3B23D165D100FE31A7 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8642EF3923D165D100FE31A7 /* Main.storyboard */; };
+		869308D823D1802B00D7C7FB /* .gitignore in Resources */ = {isa = PBXBuildFile; fileRef = 869308D723D1802B00D7C7FB /* .gitignore */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -21,6 +22,8 @@
 		8642EF3A23D165D100FE31A7 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		8642EF3C23D165D100FE31A7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		8642EF3D23D165D100FE31A7 /* Hear_Me.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = Hear_Me.entitlements; sourceTree = "<group>"; };
+		869308D623D17F1F00D7C7FB /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		869308D723D1802B00D7C7FB /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -37,6 +40,8 @@
 		8642EF2723D165CE00FE31A7 = {
 			isa = PBXGroup;
 			children = (
+				869308D723D1802B00D7C7FB /* .gitignore */,
+				869308D623D17F1F00D7C7FB /* README.md */,
 				8642EF3223D165CE00FE31A7 /* Hear Me */,
 				8642EF3123D165CE00FE31A7 /* Products */,
 			);
@@ -122,6 +127,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				8642EF3823D165D100FE31A7 /* Assets.xcassets in Resources */,
+				869308D823D1802B00D7C7FB /* .gitignore in Resources */,
 				8642EF3B23D165D100FE31A7 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
